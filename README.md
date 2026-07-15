@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" alt="Fatora Logo" width="150"/>
+<img src="assets/images/logo.png" alt="Fatora Logo" width="150"/>
 
 ### A Modern Flutter Application
 
