@@ -42,7 +42,7 @@ The project follows Flutter best practices and focuses on providing a smooth use
 
 # 📸 Screenshots
 
-> Add screenshots here
+
 
 | Home | Details | Settings |
 |------|----------|-----------|
